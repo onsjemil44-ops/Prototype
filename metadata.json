@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Intranet ERP - Suivi des Retours \u0026 Non-Conformités",
+  "description": "Prototype d\u0027interface intégrée pour la gestion des bons de retour, fiches de non-conformité et intégration Sage X3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
