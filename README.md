@@ -1,17 +1,25 @@
+# Prototype - Application de gestion des pièces non conformes
 
-# Run and deploy 
+## Description
+Application web permettant la traçabilité et le suivi du flux de traitement des pièces non conformes nécessitant une retouche.
 
-This contains everything you need to run your app locally.
+## Technologies
+- Vue.js 3
+- TypeScript
+- Vite
+- CSS
 
-View your app : https://ai.studio/apps/78375b8c-b5d5-4511-9e49-9e772d857af9
+## Fonctionnalités
+- Création des fiches de non-conformité
+- Suivi des retouches
+- Gestion des décisions
+- Historique des mouvements
+- Tableau de bord
 
-## Run Locally
+## Installation
 
-**Prerequisites:**  Node.js
+npm install
 
+## Démarrage
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+npm run dev
